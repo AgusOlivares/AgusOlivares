@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm Agus! </h1> 
 
-<h3 align="center"> I'm a Computer Science student at National University of Cuyo. Passionate about technology and learning the DevOps path</h3>  
+<h3 align="center"> I'm a Computer Science student at National University of Cuyo. Passionate about technology and learning the DevSecOps path, Cybersecurity Enthusiast!. My main experiences are with Python, C and Java. </h3>  
+
 
 - 🔭 I’m currently working on a proyect called "<a href="https://github.com/AgusOlivares/Hidroponia-Urbana">Hidroponia Urbana</a>"
 - 🌱 I’m currently learning Celium and other eBPF technologies
