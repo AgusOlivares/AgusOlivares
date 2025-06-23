@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a proyect called "<a href="https://github.com/AgusOlivares/Hidroponia-Urbana">Hidroponia Urbana</a>". Managing the kubernetes deployment, at the moment executing in an academic cluster 
 - 🌱 I’m currently learning Celium and other eBPF technologies for optimizing observability in cluster
 - 📫 How to reach me **faolivares@gmail.com**
-- 👯 I’m looking to collaborate on Kubernetes Clusters Development
+- 👯 I’m looking to collaborate on Kubernetes Clusters Development proyects
 
 
 
